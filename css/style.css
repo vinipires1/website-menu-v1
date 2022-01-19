@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: rgb(199, 199, 199);
+}
+
+.title{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 5px;
+
+}
+
+.menu{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+
+}
