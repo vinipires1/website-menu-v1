@@ -22,7 +22,7 @@ body{
 .menu{
     text-align: center;
     color: black;
-    margin-top: 20px;
+    margin-top: none;
     padding: 25px;
     background-color: black;
     word-spacing: 60px;
@@ -33,4 +33,16 @@ body{
     color: white;
     letter-spacing: 2px;
     text-transform: uppercase;
+}
+
+.menu a:hover{
+    color: blue;
+}
+
+.menu-image-logo{
+padding: auto;
+}
+
+.image-logo{
+    position: fixed;
 }
